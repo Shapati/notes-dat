@@ -1,0 +1,22 @@
+{
+    "notes":[
+        {
+            "date": "August 3 - 2022",
+            "Subject": "English Language",
+            "state": "green",
+            "body": "English composition is the study of fundamental reading and writing concepts and skills. Reading comprehension, grammar, the writing process, citing sources, and writing effectively to communicate ideas are topics usually covered within English composition classes."
+        },
+        {
+            "date": "August 8 - 2022",
+            "Subject": "Creative Writing",
+            "state": "blue",
+            "body": "Creative writing is any writing that goes outside the bounds of normal professional, journalistic, academic, or technical forms of literature, typically identified by an emphasis on narrative craft, character development, and the use of literary tropes or with various traditions of poetry and poetics."
+        },
+        {
+            "date": "July 28 - 2022",
+            "Subject": "Adjectives",
+            "state": "blue",
+            "body": "This is Nifemis note , add a new note to display yours 🤓"
+        }
+    ]
+}
